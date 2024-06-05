@@ -19,8 +19,8 @@
     }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 640px) {
     .menuContainer {
-        @apply w-full;
+        @apply w-3/4;
     }
 }
